@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=gaelthas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 在线小玩意
 
 放在 [gaelthas.github.io](https://gaelthas.github.io/gaelthas/) 上的一些东西：
